@@ -12,7 +12,7 @@ Trained for 10 epochs.
 
 Dataset: downloaded from internet (extracted from GTSRB Dataset): 43 classes.
 
-Second approach — using a YOLOv8n model:advanced CNN that uses convolutional layers
+Second approach(transfer learning ) — using a YOLOv8n model:advanced CNN that uses convolutional layers
 We trained a YOLOv8n model on a dataset we created using a Python script.
 This project was done in three steps:
 Step 1: Creating the dataset: 5 classes, ~1250 images each.
