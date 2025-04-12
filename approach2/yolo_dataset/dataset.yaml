@@ -1,0 +1,9 @@
+names:
+  0: ceder_passage
+  1: dodane
+  2: left
+  3: travaux
+  4: warning
+path: C:\Users\LENOVO\Desktop\yolo_dataset
+train: images/train
+val: images/val
