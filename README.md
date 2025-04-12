@@ -9,6 +9,7 @@ Input shape: (32, 32, 1)
 60 filters in the first layer, 30 in the later ones.
 2 kernels: (5,5) kernel and (3,3) kernel.
 Trained for 10 epochs.
+The architecture of our CNN model consists of two initial convolutional layers (Conv2D_1 and Conv2D_2) followed by a max pooling layer (MaxPooling2D_1), then two more convolutional layers (Conv2D_3 and Conv2D_4) followed by another max pooling layer (MaxPooling2D_2). The output is then flattened (Flatten), passed through a fully connected dense layer (Dense_1), and finally output through a softmax layer (Dense_2) for classification.
 
 Dataset: downloaded from internet (extracted from GTSRB Dataset): 43 classes.
 
