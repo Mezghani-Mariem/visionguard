@@ -13,3 +13,5 @@ Step 2: Generating labels and training the model.
 Step 3: Using the model to detect traffic signs.
 
 please click here for the video demonstration https://drive.google.com/file/d/1T6b1G28M6ux0-SmXoIMdaMdI2-UA9wqC/view?usp=sharing
+
+link of the first approach https://github.com/Mezghani-Mariem/vision_guard
