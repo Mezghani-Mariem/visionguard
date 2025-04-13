@@ -11,3 +11,5 @@ Classes are ('travaux', 'warning', 'dodane', 'left', 'ceder_le_passage').
 The Python script that creates the dataset detects triangle shapes, crops the image, and saves it to a folder, creating the dataset (all the signs we used have triangular shapes).
 Step 2: Generating labels and training the model.
 Step 3: Using the model to detect traffic signs.
+
+please click here for the video demonstration https://drive.google.com/file/d/1T6b1G28M6ux0-SmXoIMdaMdI2-UA9wqC/view?usp=sharing
