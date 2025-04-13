@@ -1,6 +1,8 @@
 # visionguard
 VisionGuard is a computer vision project focused on traffic sign detection and classification, utilizing both traditional CNN architectures and cutting-edge object detection YOLO model.
 We used two different approaches in this project.
+
+
 Second approach(transfer learning ) — using a YOLOv8n model:advanced CNN that uses convolutional layers
 We trained a YOLOv8n model on a dataset we created using a Python script.
 This project was done in three steps:
